@@ -8,9 +8,6 @@ function App() {
     <div className="App">
       <Header />
       <Meme />
-      <div className='content'>
-        asdasd
-      </div>
     </div>
   );
 }
